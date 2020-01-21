@@ -1,8 +1,8 @@
 # The Node.js Meetup
 
-## ATX-Talks!
+## NYC-Talks!
 
-This repository serves as a simple mechanism for allowing the Austin Node.js community to
+This repository serves as a simple mechanism for allowing the NYC Node.js community to
 submit talk proposals, request commentary on them, and help create a queue of great
 future content.
 
