@@ -1,4 +1,4 @@
-Thanks for submitting a talk to Austin Node.js!
+Thanks for submitting a talk to NYC Node.js!
 
 ### Would you like to present a Lightning Talk or Feature Talk
 
